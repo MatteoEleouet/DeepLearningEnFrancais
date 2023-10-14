@@ -7,8 +7,9 @@
 backup/
 Schema/
 images/
-
-.log
-.history
 .vscode
-.html
+.history
+
+*.log
+*.html
+*.gz
