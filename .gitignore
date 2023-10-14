@@ -1,0 +1,14 @@
+# Temporaire
+05_reseau_neurones/
+06_apprentissage/
+
+
+#  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+backup/
+Schema/
+images/
+
+.log
+.history
+.vscode
+.html
